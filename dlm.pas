@@ -1,0 +1,7 @@
+program duo_lingua_mortua;
+
+begin
+  writeln('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc non est positum in nostra actione. Collige omnia, quae soletis: Praesidium amicorum. Non laboro, inquit, de nomine. Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes. Duo Reges: constructio interrete. Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia; Terram, mihi crede, ea lanx et maria deprimet.');
+  writeln('Atqui reperies, inquit, in hoc quidem pertinacem; Non est igitur voluptas bonum. Quodcumque in mentem incideret, et quodcumque tamquam occurreret. Cum salvum esse flentes sui respondissent, rogavit essentne fusi hostes. Tamen a proposito, inquam, aberramus. Etsi ea quidem, quae adhuc dixisti, quamvis ad aetatem recte isto modo dicerentur. Quid ait Aristoteles reliquique Platonis alumni? Sed ea mala virtuti magnitudine obruebantur. De ingenio eius in his disputationibus, non de moribus quaeritur.');
+  writeln('Suo enim quisque studio maxime ducitur. Nescio quo modo praetervolavit oratio. Sed nimis multa. In schola desinis. Hoc sic expositum dissimile est superiori. Quid de Platone aut de Democrito loquar? Qui enim existimabit posse se miserum esse beatus non erit. Facillimum id quidem est, inquam. Profectus in exilium Tubulus statim nec respondere ausus; Ergo opifex plus sibi proponet ad formarum quam civis excellens ad factorum pulchritudinem?');
+end.
